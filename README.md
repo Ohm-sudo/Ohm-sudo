@@ -29,7 +29,6 @@ As an Information Technology graduate, I developed a passion for cybersecurity t
 <div> <img src="https://img.shields.io/badge/-Shuffle-1F2E26?&style=for-the-badge" /> <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/-Watchtower-393E46?&style=for-the-badge" /> <img src="https://img.shields.io/badge/-draw.io-44B78B?&style=for-the-badge" /> </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-CCNA-1BA1E2?&style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-0072C6?&style=for-the-badge&logo=isc2&logoColor=white" /> <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/-Azure%20Fundamentals-0089D6?&style=for-the-badge&logo=microsoft-azure&logoColor=white" /> </div>
 
 ## Projects
