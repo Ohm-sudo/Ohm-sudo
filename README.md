@@ -1,11 +1,10 @@
 # Hello, I'm Rohme
 <a href="https://www.linkedin.com/in/rohme-cabacungan-b25525235/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate driven by technology and problem solving to tackle complex cybersecurity challenges.
+I am driven by technology and problem solving to tackle complex IT and cybersecurity challenges.
 
 ## Objective
-
-As an Information Technology graduate, I developed a passion for cybersecurity through my coursework and now I am eager to gain hands-on experience in infrastructure, IT Operations, and pursue roles as a Cybersecurity or SOC Level 1 Analyst.
+I developed a passion for cybersecurity through university and now I am eager to gain hands-on experience in infrastructure, IT Operations, and pursue roles as a Cybersecurity or SOC Level 1 Analyst.
 
 ## Skills
 
